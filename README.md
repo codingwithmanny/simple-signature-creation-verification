@@ -41,4 +41,4 @@ yarn start;
 
 ## License
 
-MIT - See (https://github.com/codingwithmanny/simple-signature-creation-verification/blob/main/LICENSE)[https://github.com/codingwithmanny/simple-signature-creation-verification/blob/main/LICENSE]
+MIT - See [LICENSE](https://github.com/codingwithmanny/simple-signature-creation-verification/blob/main/LICENSE)
